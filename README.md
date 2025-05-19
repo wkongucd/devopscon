@@ -1,5 +1,7 @@
 # Welcome to DevOpsCon CI/CD demo repo
 ## This repository contains basic Maven project with Hello-World Java war  
+<b>Welcome to DevOpsCon CI/CD demo repo</b><br/>
+<b>This repository contains basic Maven project with Hello-World Java war  </b></br><br/>
 In order to make it work, please follow the instructions below: 
 
 <ul>
